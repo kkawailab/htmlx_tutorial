@@ -4,11 +4,11 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Repository Overview
 
-This is an HTMX tutorial repository written in Japanese, consisting of comprehensive documentation across 9 chapters. The repository contains only Markdown files with tutorial content - no actual code implementations yet.
+This is an HTMX tutorial repository written in Japanese, consisting of comprehensive documentation across 10 chapters. The repository contains only Markdown files with tutorial content - no actual code implementations yet.
 
 ## Repository Structure
 
-The tutorial is organized into 9 progressive chapters:
+The tutorial is organized into 10 progressive chapters:
 - Chapter 1: Basic concepts and philosophy of HTMX
 - Chapter 2: Environment setup and installation
 - Chapter 3: Basic HTTP attributes (hx-get, hx-post)
@@ -18,6 +18,7 @@ The tutorial is organized into 9 progressive chapters:
 - Chapter 7: Loading indicators and error handling
 - Chapter 8: Building a complete TODO application
 - Chapter 9: Data persistence methods (LocalStorage, IndexedDB, caching)
+- Chapter 10: Database integration (SQL and NoSQL databases)
 
 ## Common Tasks
 
@@ -39,8 +40,12 @@ The tutorial is designed for beginners and includes:
 - Progressive difficulty from basic concepts to a full application
 - Focus on server-side rendering with minimal JavaScript
 
-The final chapter (Chapter 8) contains a complete TODO application example with:
+Chapter 8 contains a complete TODO application example with:
 - Frontend HTML/CSS/JavaScript code
 - Backend implementation in Flask (Python)
 - Progressive Web App features
 - Drag-and-drop functionality
+
+The later chapters (9-10) cover advanced topics:
+- Chapter 9: Client-side data persistence techniques
+- Chapter 10: Server-side database integration with real-world examples

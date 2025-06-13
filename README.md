@@ -21,6 +21,7 @@ HTMXは、HTMLの拡張属性を使用してAJAX、CSS遷移、WebSocketなど�
 - フォーム処理とバリデーション
 - 実践的なWebアプリケーションの構築
 - データ永続化とオフライン対応
+- データベースとの効率的な連携
 
 ## 目次
 
@@ -85,6 +86,13 @@ HTMXは、HTMLの拡張属性を使用してAJAX、CSS遷移、WebSocketなど�
 - サーバー側のセッション管理
 - キャッシュ戦略とService Worker
 - オフライン対応とデータ同期
+
+### [第10章: データベースとの連携](./chapter10/README.md)
+- SQLデータベース（MySQL、PostgreSQL）との連携
+- NoSQLデータベース（MongoDB、Redis）の活用
+- ORM（SQLAlchemy）の使用方法
+- パフォーマンス最適化とセキュリティ
+- リアルタイム機能の実装
 
 ## 使い方
 
